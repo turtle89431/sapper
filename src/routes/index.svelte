@@ -62,5 +62,6 @@
 
 <p>
 	<strong>Try editing this file (src/routes/index.svelte) to test live
-		reloading.</strong>
+		reloading. or add serverside code in sroutes using express routes and
+		edit server.js accordingly</strong>
 </p>
