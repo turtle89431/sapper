@@ -3,8 +3,8 @@
 
 - express rout example in src/sroutes and refranced in server.js
 
-    const sroutes = require("./sroutes/api")
+        const sroutes = require("./sroutes/api")
     
-    app.use("/api", sroutes)
+        app.use("/api", sroutes)
 
 - rest of sapper is the same
