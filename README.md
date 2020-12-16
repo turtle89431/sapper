@@ -3,5 +3,6 @@
 
 - express rout example in src/sroutes and refranced in server.js
 
-    const sroutes = require("./sroutes/api") // <-- express server routes
+    const sroutes = require("./sroutes/api")
+    
     app.use("/api", sroutes)
