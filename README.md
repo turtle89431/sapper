@@ -6,3 +6,5 @@
     const sroutes = require("./sroutes/api")
     
     app.use("/api", sroutes)
+
+- rest of sapper is the same
